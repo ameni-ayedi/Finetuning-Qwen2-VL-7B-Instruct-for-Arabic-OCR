@@ -1,0 +1,1 @@
+# Finetuning-Qwen2-VL-7B-Instruct-for-Arabic-OCR
