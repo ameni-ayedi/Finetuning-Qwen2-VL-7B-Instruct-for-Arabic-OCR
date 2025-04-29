@@ -1,6 +1,6 @@
 # 🧠 Finetuning Qwen2-VL-7B-Instruct for Arabic OCR using Unsloth
 
-This project focuses on fine-tuning [Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen-VL) — a vision-language transformer model — on an Arabic OCR (Optical Character Recognition) task using the [Unsloth](https://github.com/unslothai/unsloth) framework.
+This project focuses on fine-tuning [Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) — a vision-language transformer model — on an Arabic OCR (Optical Character Recognition) task using the [Unsloth](https://github.com/unslothai/unsloth) framework.
 
 ---
 
