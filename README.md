@@ -21,3 +21,4 @@ To create a custom fine-tuned version of Qwen2-VL capable of interpreting images
 ---
 
 ## 📁 Dataset
+For this project, we used the [MohamedRashad/arabic-img2md](https://huggingface.co/datasets/MohamedRashad/arabic-img2md) dataset a synthetic dataset containing around 15,000 examples of PDF pages paired with their Markdown counterparts. As mentioned on the HuggingFace plateform, it contains mostly Arabic text but also includes examples with English text created to enable OCR and Markdown extraction from Arabic documents
